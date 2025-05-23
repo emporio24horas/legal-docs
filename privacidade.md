@@ -8,8 +8,8 @@ permalink: /account/privacidade/
 # Política de Privacidade  
 **Última atualização:** 22 de maio de 2025  
 **Aplicativo:** *[Gestão Transporte]*  
-**Empresa:** *[Raquel Jaqueline Fischer Hoch]* — CNPJ *[56.706.165/0001-38]*  
-**Encarregado/DPO:** *[Raquel Jaqueline Fischer Hoch]* — <raquelj.fischer@gmail.com>  
+**Empresa:** *[Raquel Jaqueline Hoch]* — CNPJ *[56.706.165/0001-38]*  
+**Encarregado/DPO:** *[Raquel Jaqueline Hoch]* — <raquelj.fischer@gmail.com>  
 **Contato geral:** <raquelj.fischer@gmail.com>  
 **Foro competente:** Ivoti – RS – Brasil  
 

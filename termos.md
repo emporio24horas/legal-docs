@@ -8,7 +8,7 @@ permalink: /account/termos/
 # Termos de Uso  
 **Última atualização:** 22 de maio de 2025  
 **Aplicativo:** *[Gestão Transporte]*  
-**Empresa:** *[Raquel Jaqueline Fischer Hoch]* — CNPJ *[56.706.165/0001-38]*  
+**Empresa:** *[Raquel Jaqueline Hoch]* — CNPJ *[56.706.165/0001-38]*  
 **Contato:** <raquelj.fischer@gmail.com>  
 
 ---
@@ -156,4 +156,4 @@ O Usuário concorda em resolver quaisquer disputas exclusivamente de forma indiv
 
 ---
 
-**© 2025 *[Raquel Jaqueline Fischer Hoch]*. Todos os direitos reservados.**
+**© 2025 *[Raquel Jaqueline Hoch]*. Todos os direitos reservados.**

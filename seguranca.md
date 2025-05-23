@@ -9,7 +9,7 @@ permalink: /account/seguranca/
 
 **Última atualização:** 24 de maio de 2025  
 **Aplicativo:** *Gestão Transporte*  
-**Empresa:** *Raquel Jaqueline Fischer Hoch* — CNPJ *56.706.165/0001-38*  
+**Empresa:** *Raquel Jaqueline Hoch* — CNPJ *56.706.165/0001-38*  
 
 ---
 
