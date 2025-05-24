@@ -15,7 +15,7 @@ permalink: /termos/
 
 ## 1. Aceitação dos Termos  
 
-Ao instalar, acessar ou utilizar o Aplicativo, você declara ter lido, compreendido e aceitado integralmente estes Termos de Uso e a nossa Política de Privacidade. Se não concordar, desinstale e interrompa imediatamente o uso.  
+Ao instalar, acessar, utilizar ou atualizar o Aplicativo, você declara ter lido, compreendido e aceitado integralmente estes Termos de Uso e a nossa Política de Privacidade. A instalação, reinstalação ou atualização constitui aceitação integral da versão mais recente, independentemente de leitura prévia. Se não concordar, desinstale e interrompa imediatamente o uso.  
 
 ---
 
@@ -68,47 +68,64 @@ O descumprimento pode resultar em suspensão imediata, encerramento da conta e m
 
 ## 7. Propriedade Intelectual  
 
+É expressamente proibido ao Usuário divulgar, publicar ou compartilhar avaliações, comentários ou conteúdos que contenham informações inverídicas, ofensivas, difamatórias ou que possam causar prejuízo à imagem, reputação ou interesses comerciais da Empresa, inclusive em redes sociais, marketplaces ou lojas de aplicativos. O descumprimento poderá ensejar responsabilização cível, criminal e/ou o encerramento imediato da conta.  
+
+---
+
+## 8. Propriedade Intelectual  
+
 Todo o conteúdo do Aplicativo (código-fonte, bases de dados, interfaces, marcas, textos, imagens) pertence à Empresa ou aos respectivos licenciantes e é protegido pela legislação de propriedade intelectual. **Qualquer reprodução, modificação ou distribuição não autorizada é terminantemente proibida.**  
 
 ---
 
-## 8. Conteúdo Gerado pelo Usuário  
+## 9. Conteúdo Gerado pelo Usuário  
 
 Você mantém a titularidade de qualquer conteúdo enviado, mas concede à Empresa **licença mundial, irrevogável, gratuita, sublicenciável e perpétua** para armazenar, usar, processar, reproduzir, exibir e criar obras derivadas, inclusive para fins de inteligência artificial, estatísticas e negócios.  
 
 ---
 
-## 9. Limitação de Responsabilidade  
+## 10. Limitação de Responsabilidade  
 
-O Aplicativo é fornecido **“como está”**, sem garantias de disponibilidade, desempenho ou adequação a fins específicos. Na máxima extensão permitida em lei:  
+O Aplicativo é fornecido **“como está”**, sem qualquer garantia expressa ou implícita de funcionamento contínuo, disponibilidade, exatidão, atualização ou adequação a um fim específico. O uso é feito por conta e risco exclusivo do usuário.
 
-- Não nos responsabilizamos por danos diretos, indiretos, incidentais, emergentes ou lucros cessantes.  
-- O uso do Aplicativo enquanto o usuário estiver dirigindo, pilotando ou operando qualquer veículo ou máquina é de inteira responsabilidade do próprio usuário; a Empresa não responde por acidentes, infrações de trânsito, danos pessoais, materiais ou a terceiros decorrentes desse uso.  
-- Toda responsabilidade total se limita ao valor que você pagou nos 12 meses anteriores **ou** R$ 500,00 (o que for menor).  
-- Não garantimos a exatidão, integridade ou atualização das informações exibidas.  
+Na máxima extensão permitida pela legislação aplicável:
 
----
+- A Empresa **não se responsabiliza por danos diretos, indiretos, incidentais, emergentes, punitivos ou lucros cessantes**, ainda que previsíveis ou decorrentes do uso, impossibilidade de uso ou desempenho do aplicativo;
+- **O uso do Aplicativo durante a condução de veículos ou operação de máquinas é inteiramente por conta e risco do usuário.** A Empresa não responderá por acidentes, infrações, danos físicos, materiais ou morais decorrentes desse uso impróprio;
+- A **responsabilidade total da Empresa, se houver**, estará limitada ao valor efetivamente pago pelo usuário nos 12 (doze) meses anteriores ao fato gerador **ou R$ 100,00 (cem reais)** — o que for menor.  
+  - Caso não tenha havido pagamento, **a responsabilidade será nula**;
+- A Empresa **não garante a manutenção de funcionalidades específicas, nem a continuidade do serviço, mesmo em planos pagos**, podendo alterar, suspender ou descontinuar partes do aplicativo a qualquer momento;
+- A Empresa **não garante a exatidão, integridade ou confiabilidade das informações exibidas no aplicativo**, e não se compromete a corrigir falhas específicas ou manter determinado nível de desempenho.
 
-## 10. Indenização  
-
-Você concorda em indenizar a Empresa, seus diretores, funcionários e parceiros contra quaisquer reclamações, perdas ou despesas resultantes de:  
-
-1. Violação destes Termos ou da legislação aplicável;  
-2. Uso indevido do Aplicativo;  
-3. Conteúdo enviado ou transmitido por você.  
+Nenhuma cláusula desta política será interpretada como renúncia aos direitos mínimos do consumidor, quando aplicáveis. No entanto, toda e qualquer responsabilidade civil será avaliada conforme os limites legais e os termos aqui descritos.
 
 ---
 
-## 11. Encerramento, Suspensão e Alterações  
+## 11. Indenização  
+
+Você concorda em **indenizar, defender e isentar** a Empresa, seus representantes legais, diretores, funcionários, fornecedores, parceiros, contratados e afiliados de **quaisquer reivindicações, perdas, responsabilidades, custos, despesas, multas ou danos (incluindo honorários advocatícios, custas judiciais e administrativas)** que decorram de forma direta ou indireta de:
+
+1. Violação desta Política, dos Termos de Uso, de outros documentos legais vinculados ou da legislação vigente;
+2. Uso indevido, abusivo, fraudulento ou ilegal do Aplicativo, por ação ou omissão de sua parte;
+3. Conteúdo enviado, publicado, armazenado ou transmitido por você, inclusive se houver violação de direitos de terceiros, como privacidade, imagem, marca, propriedade intelectual, ou se gerar danos à reputação da empresa;
+4. Uso do Aplicativo em desacordo com orientações técnicas, documentação ou especificações funcionais;
+5. Tentativa de contornar limitações técnicas, de segurança, autenticação, limites de uso ou qualquer mecanismo da plataforma.
+
+Essa obrigação de indenização se aplica **mesmo após o encerramento da sua conta**, e **inclui indenizações por danos causados a terceiros**, sem prejuízo de outras medidas administrativas, civis ou criminais cabíveis.
+
+---
+
+## 12. Encerramento, Suspensão e Alterações  
 
 - Podemos suspender ou encerrar seu acesso a qualquer momento, com ou sem aviso, por descumprimento destes Termos ou exigência legal.  
 - Reservamo-nos o direito de modificar, suspender ou descontinuar o Aplicativo (ou qualquer de suas partes) sem aviso prévio.  
 - A Empresa pode, a seu exclusivo critério, deixar de fornecer suporte técnico, atualizações ou manutenção, total ou parcialmente, a qualquer momento, sem que isso gere direito a indenização, reembolso ou continuidade de serviço.  
 - Podemos transferir, ceder ou sublicenciar nossos direitos e obrigações a terceiros, inclusive em operações de fusão, aquisição ou venda de ativos.  
+- Contas com longos períodos de inatividade, uso suspeito, documentos inválidos ou dados divergentes poderão ser suspensas ou encerradas automaticamente, a critério exclusivo da Empresa, como medida preventiva de segurança ou integridade da plataforma.  
 
 ---
 
-## 12. Alterações dos Termos  
+## 13. Alterações dos Termos  
 
 Podemos atualizar esta Política a qualquer momento, publicando a versão revisada **exclusivamente nesta página**, sempre com a data de revisão no topo.  
 **É responsabilidade exclusiva do usuário** consultar periodicamente o documento para manter-se informado sobre eventuais mudanças.  
@@ -124,13 +141,14 @@ O uso contínuo do Aplicativo após a publicação de qualquer alteração — i
 
 ---
 
-## 13. Jurisdição e Foro  
+## 14. Jurisdição e Foro  
 
 Estes Termos são regidos pelas leis do Brasil, sem prejuízo de observância de normas dos EUA ou UE quando aplicáveis. **Fica eleito o foro da comarca de Ivoti – RS**, renunciando a qualquer outro, por mais privilegiado que seja.  
+O Usuário concorda em resolver quaisquer disputas exclusivamente de forma individual, renunciando expressamente ao direito de participar de ações coletivas, conjuntas ou representativas contra a Empresa.  
 
 ---
 
-## 14. Disposições Finais  
+## 15. Disposições Finais  
 
 - A eventual nulidade de qualquer cláusula não afeta a validade das demais.  
 - Nossa falha em exercer qualquer direito não constitui renúncia.  

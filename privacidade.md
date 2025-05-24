@@ -45,35 +45,98 @@ Ao instalar, acessar ou usar o Aplicativo, você declara ter lido, compreendido 
 | **Dados de terceiros** | login Google, Facebook, Apple, bases públicas e comerciais | APIs externas |
 | **Inferências de IA** | scores de risco, perfis comportamentais, análises de crédito, dentre outros | processamento interno |
 
+O Usuário é exclusivamente responsável por manter seus dados atualizados. Dados desatualizados poderão gerar erros na prestação de serviço ou bloqueio de acesso, sem que isso gere responsabilidade para a Empresa.  
+
 > **Retenção:** salvo exigência legal em contrário, mantemos os dados por período indeterminado para fins legais, históricos e de melhoria contínua.  
 
 ---
 
 ## 4. Bases Legais e Finalidades  
 
-| Base jurídica | Finalidades principais |
-|---------------|-----------------------|
-| **Consentimento** | geolocalização contínua, marketing segmentado, biometria, IA/ML, cruzamento de dados |
-| **Execução de contrato** | criação e manutenção da conta, entrega de funcionalidades |
-| **Interesses legítimos** | prevenção à fraude, melhoria de produto, estatísticas agregadas |
-| **Obrigação legal/regulatória** | KYC, combate à lavagem de dinheiro, ordens judiciais |
-| **Proteção de crédito** | análises de risco e perfil financeiro |
+A coleta e o tratamento de dados pessoais, sensíveis e operacionais realizados pela empresa são fundamentados nas hipóteses legais previstas na Lei Geral de Proteção de Dados (LGPD – Lei 13.709/2018), combinadas com princípios de boa-fé, necessidade, proporcionalidade e legítimo interesse empresarial.
 
-Também poderemos tratar dados **para qualquer finalidade compatível** com as acima, inclusive a venda de relatórios **anonimizados** a terceiros.  
+Abaixo, detalhamos as bases jurídicas utilizadas e suas finalidades primárias:
+
+| Base jurídica                       | Finalidades principais                                                                                                                                           |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Consentimento (Art. 7º, I e 11)**| Coleta de localização contínua, biometria, selfie, uso de câmera/microfone, personalização, publicidade direcionada, perfil de uso, IA/ML, cruzamento de bases. |
+| **Execução de contrato**           | Criação de conta, login, gerenciamento de acesso, ativação de funcionalidades contratadas, comunicação com o usuário.                                            |
+| **Interesse legítimo (Art. 7º, IX)**| Prevenção a fraudes, auditoria, segurança da plataforma, melhorias operacionais, geração de estatísticas, analytics interno, envio de notificações técnicas.     |
+| **Obrigação legal/regulatória**   | Atendimento a ordens judiciais, investigações, KYC, combate à lavagem de dinheiro, retenção fiscal e cumprimento de obrigações regulatórias.                    |
+| **Proteção de crédito (Art. 7º, X)**| Análises de risco, avaliação de perfil financeiro, verificação antifraude e prevenção de inadimplência em planos pagos.                                         |
+
+### Finalidades secundárias e compatíveis
+
+A empresa reserva-se o direito de tratar dados para **quaisquer finalidades compatíveis**, conexas ou decorrentes das descritas acima, incluindo mas não se limitando a:
+
+- Treinamento de algoritmos de inteligência artificial e machine learning com dados processados, inclusive conteúdo gerado por usuários;
+- Elaboração e venda de relatórios agregados, perfis estatísticos ou clusters de comportamento — desde que anonimizados ou pseudonimizados;
+- Compartilhamento com parceiros estratégicos, afiliados, controladoras ou adquirentes, para fins operacionais, analíticos, comerciais ou legais;
+- Expansão da base de dados com informações coletadas de fontes públicas, comerciais ou autorizadas por parceiros;
+- Registro e auditoria de logs e evidências técnicas para segurança, defesa judicial, conformidade e resposta a incidentes.
+
+### Inteligência Artificial e Aprendizado de Máquina
+
+A empresa poderá utilizar dados identificáveis, pseudonimizados ou anonimizados para o desenvolvimento, treinamento e ajuste de algoritmos próprios ou de terceiros, inclusive modelos de inteligência artificial generativa, desde que respeitada a base legal vigente. Isso poderá incluir dados derivados de comportamento de uso, conteúdos enviados, interações com o aplicativo e padrões operacionais.
+
+### Tratamento futuro de novos dados
+
+A empresa poderá coletar e tratar **novos dados pessoais, sensíveis ou operacionais**, não previstos expressamente neste documento, desde que:
+
+- sejam **compatíveis com as finalidades originais** ou com novas funcionalidades disponibilizadas;
+- estejam **amparados por uma das bases legais previstas na LGPD**;
+- não contrariem os direitos fundamentais do titular.
+
+Em caso de necessidade, a empresa poderá atualizar sua Política de Privacidade ou solicitar novo consentimento, quando aplicável.
+
+### Isenção de limitação prévia
+
+O usuário declara-se ciente de que o tratamento de dados poderá abranger **dados identificáveis, pseudonimizados e anonimizados**, sem obrigação de notificação prévia ou solicitação adicional de consentimento, quando houver base legal válida ou interesse legítimo demonstrável.
+
+O uso contínuo da plataforma implica aceite pleno das finalidades descritas nesta seção.
 
 ---
 
 ## 5. Compartilhamento de Dados  
 
-| Destinatário | Motivo |
-|--------------|--------|
-| Plataformas de login (Google, Apple, Meta) | autenticação e unificação de conta |
-| Parceiros comerciais e afiliados | ofertas, campanhas, cupons, revenda de bases anonimizadas |
-| Prestadores de nuvem, analytics, segurança | hospedagem, monitoramento, mitigação de fraude |
-| Instituições financeiras e bureaus de crédito | análise de risco, pagamento, verificação de identidade |
-| Autoridades públicas | cumprimento de obrigações legais ou ordem judicial |
-| Terceiros adquirentes em M&A | continuidade de negócio ou transferência de ativos |
-| **Outros** | sempre que necessário às finalidades descritas ou com novo consentimento |
+A empresa poderá compartilhar dados pessoais, operacionais e técnicos com terceiros, nacionais ou internacionais, sempre que houver base legal válida, legítimo interesse ou necessidade operacional, conforme as finalidades descritas nesta política.
+
+| Destinatário                                      | Motivo e Finalidade                                                                                     |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Plataformas de autenticação (Google, Apple, Meta, etc.)** | Login, unificação de conta, recuperação de acesso                                                        |
+| **Parceiros comerciais, afiliados e integradores** | Execução de campanhas promocionais, cupons, programas de fidelidade, segmentação de público e revenda de insights anonimizados |
+| **Prestadores de serviço (nuvem, analytics, segurança, tecnologia, suporte, mensageria, etc.)** | Hospedagem de dados, monitoramento de sistemas, mitigação de riscos, detecção de fraudes, envio de notificações e suporte |
+| **Instituições financeiras, adquirentes e bureaus de crédito** | Processamento de pagamentos, análise de risco, prevenção à fraude, score, confirmação de identidade e histórico |
+| **Autoridades governamentais, judiciais ou regulatórias** | Cumprimento de obrigações legais, fiscais, administrativas, policiais ou decorrentes de ordem judicial |
+| **Empresas interessadas em fusões, aquisições ou reestruturações (M&A)** | Continuidade de operação, auditoria, diligência ou transferência de ativos, inclusive bases de dados e licenças |
+| **Plataformas de publicidade e parceiros de mídia** | Personalização de anúncios, segmentação de campanhas, retargeting e criação de clusters de interesse com base em perfil comportamental |
+| **Outros terceiros estratégicos ou operacionais** | Sempre que necessário ao cumprimento das finalidades descritas nesta política, com base no legítimo interesse ou outra hipótese legal prevista na LGPD |
+
+### Continuidade em caso de fusão, venda ou reestruturação
+
+Em caso de fusão, aquisição, incorporação, cisão, venda parcial ou total de ativos, reorganização societária ou outra forma de sucessão empresarial, os dados poderão ser transferidos à nova entidade controladora ou cessionária, que assumirá os direitos e obrigações desta Política de Privacidade até que nova versão seja publicada.  
+
+### Regras e Limitações
+
+- Os dados poderão ser compartilhados **de forma identificável, pseudonimizada ou anonimizada**, conforme a necessidade da finalidade.
+- Sempre que exigido, os terceiros contratados firmarão acordos de confidencialidade e cláusulas de proteção de dados compatíveis com os padrões desta política.
+- O compartilhamento **poderá ocorrer sem necessidade de novo consentimento**, desde que amparado por base legal já existente (ex: execução de contrato, legítimo interesse, obrigação legal).
+
+### Exclusão de Responsabilidade
+
+A empresa não se responsabiliza pelo uso que terceiros venham a fazer dos dados compartilhados legalmente, desde que:
+
+- O tratamento posterior ocorra de forma autônoma pelo terceiro receptor;
+- Haja cumprimento das obrigações contratuais e legais por parte do terceiro;
+- A finalidade original do compartilhamento tenha sido respeitada.
+
+### Transferência Internacional
+
+Os dados poderão ser transferidos para servidores ou parceiros localizados fora do Brasil, inclusive para países que **não possuem legislação equivalente à LGPD**, desde que adotados mecanismos adequados de proteção contratual, técnica e jurídica.
+
+### Consentimento Adicional
+
+Quando a base legal para o compartilhamento depender de consentimento explícito, a empresa solicitará esse aceite de forma destacada e objetiva no momento oportuno.
 
 ---
 
@@ -83,13 +146,17 @@ Seus dados podem ser armazenados e processados no Brasil, Chile, EUA, UE ou em q
 
 ---
 
-## 7. Segurança da Informação  
+## 7. Segurança da Informação
 
-- Criptografia TLS/SSL em trânsito; criptografia em repouso em implantação.  
-- Controle de acesso RBAC.  
-- Firewalls, WAF e segregação de redes.
+A empresa adota, conforme critérios próprios de viabilidade técnica e proporcionalidade ao risco, medidas administrativas e tecnológicas com o objetivo de mitigar acessos não autorizados, perda, destruição ou vazamento de dados. Entre essas medidas estão práticas como o uso de criptografia em trânsito (TLS/SSL), criptografia em repouso em implantação, controle de acesso por função (RBAC), firewall de aplicação (WAF), segregação de redes e monitoramento de eventos anômalos.
 
-Nenhum sistema é 100 % seguro. Ao usar o Aplicativo, você reconhece e aceita esse risco.  
+Tais mecanismos poderão ser alterados, substituídos ou descontinuados a qualquer momento, de forma parcial ou integral, sem necessidade de notificação.
+
+A empresa não garante que o sistema estará livre de falhas, vulnerabilidades, interrupções, ataques ou eventos de força maior. Nenhum sistema ou ambiente digital é 100% seguro.
+
+Ao utilizar o aplicativo, o usuário declara estar ciente dos riscos inerentes ao ambiente digital e compromete-se a adotar medidas razoáveis de proteção pessoal, como manter dispositivos atualizados, senhas seguras e não compartilhar credenciais de acesso.
+
+O uso contínuo do aplicativo implica aceite integral desta política e dos limites técnicos e operacionais aplicáveis à segurança da informação.
 
 ---
 
@@ -107,11 +174,15 @@ Você pode solicitar a qualquer momento:
 
 Envie o pedido para **raquelj.fischer@gmail.com**. Responderemos em até **30 dias corridos** (LGPD) ou **45 dias** (CCPA).  
 
+Mesmo após a exclusão da conta, a Empresa poderá reter dados anonimizados para fins estatísticos, históricos ou de desenvolvimento interno, sem possibilidade de reidentificação, em conformidade com a legislação vigente.  
+
+A solicitação de exclusão poderá ser recusada parcial ou integralmente, nos casos em que houver necessidade de retenção baseada em obrigação legal, execução contratual, interesse legítimo documentado, segurança da informação, auditoria ou defesa judicial.  
+
 ---
 
 ## 9. Crianças e Adolescentes  
 
-O Aplicativo é restrito a **maiores de 18 anos** e exige documento oficial (CNH ou equivalente) para acesso. Contas de menores serão excluídas. Validação Manual, pode levar algum tempo.  
+O Aplicativo é restrito a **maiores de 18 anos** e exige documento oficial (CNH ou equivalente) para acesso. Contas de menores serão excluídas. A verificação de quaisquer tipo poderá ser feita por validação cruzada de documentos e confirmação ativa no aplicativo. O processo de validação pode ser manual e levar algum tempo; o acesso será bloqueado até a conclusão da checagem.  
 
 ---
 
@@ -187,6 +258,7 @@ O uso contínuo do Aplicativo após a publicação de qualquer alteração — i
 - Se qualquer cláusula for considerada inválida, as demais permanecem vigentes.  
 - Não há cessão de direitos a terceiros sem nossa aprovação por escrito.  
 - Controvérsias serão resolvidas exclusivamente no foro de Ivoti – RS, renunciando a qualquer outro, por mais privilegiado que seja.  
+- O usuário renuncia expressamente à participação em ações coletivas, agregadas, representativas ou similares contra a empresa, salvo quando expressamente proibido pela legislação brasileira vigente.  
 
 ---
 
