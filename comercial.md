@@ -2,7 +2,7 @@
 layout: page
 title: "Termos Comerciais (SLA)"
 last_modified_at: 2025-05-24
-permalink: /comercial/
+permalink: /account/comercial/
 ---
 
 # Termos Comerciais e SLA

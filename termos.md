@@ -2,7 +2,7 @@
 layout: page
 title: "Termos de Uso"
 last_modified_at: 2025-05-22
-permalink: /termos/
+permalink: /account/termos/
 ---
 
 # Termos de Uso  

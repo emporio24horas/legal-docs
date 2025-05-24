@@ -2,7 +2,7 @@
 layout: page
 title: "Termo de Responsabilidade para Condutores e Usuários Profissionais"
 last_modified_at: 2025-05-24
-permalink: /termo-condutor/
+permalink: /account/termo-condutor/
 ---
 
 # Termo de Responsabilidade para Condutores e Usuários Profissionais

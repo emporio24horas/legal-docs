@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Segurança da Informação"
 last_modified_at: 2025-05-24
-permalink: /seguranca/
+permalink: /account/seguranca/
 ---
 
 # Política de Segurança da Informação

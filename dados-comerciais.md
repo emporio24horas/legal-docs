@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Uso Comercial de Dados Pessoais e Estatísticos"
 last_modified_at: 2025-05-24
-permalink: /dados-comerciais/
+permalink: /account/dados-comerciais/
 ---
 
 # Política de Uso Comercial de Dados Pessoais e Estatísticos

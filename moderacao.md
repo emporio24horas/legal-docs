@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Moderação de Conteúdo do Usuário"
 last_modified_at: 2025-05-24
-permalink: /moderacao/
+permalink: /account/moderacao/
 ---
 
 # Política de Moderação de Conteúdo do Usuário

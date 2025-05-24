@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Consentimento para Tratamento Ampliado de Dados"
 last_modified_at: 2025-05-24
-permalink: /consentimento/
+permalink: /account/consentimento/
 ---
 
 # Política de Consentimento para Tratamento Ampliado de Dados

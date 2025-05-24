@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Privacidade"
 last_modified_at: 2025-05-22
-permalink: /privacidade/
+permalink: /account/privacidade/
 ---
 
 # Política de Privacidade  

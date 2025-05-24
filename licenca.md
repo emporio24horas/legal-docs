@@ -2,7 +2,7 @@
 layout: page
 title: "Contrato de Licença de Usuário Final (EULA)"
 last_modified_at: 2025-05-24
-permalink: /licenca/
+permalink: /account/licenca/
 ---
 
 # Contrato de Licença de Usuário Final (EULA)
@@ -85,4 +85,4 @@ O usuário concorda em resolver qualquer disputa individualmente, **renunciando 
 
 - Este EULA complementa os Termos de Uso e a Política de Privacidade;
 - O uso contínuo do aplicativo após atualizações será interpretado como aceite integral da nova versão;
-- A versão vigente estará sempre disponível na URL [https://emporio24horas.github.io/legal-docs/licenca](https://emporio24horas.github.io/legal-docs/licenca) ou conforme indicado no aplicativo.
+- A versão vigente estará sempre disponível na URL [https://emporio24horas.github.io/legal-docs/account/licenca](https://emporio24horas.github.io/legal-docs/account/licenca) ou conforme indicado no aplicativo.

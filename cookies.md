@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Cookies"
 last_modified_at: 2025-05-24
-permalink: /cookies/
+permalink: /account/cookies/
 ---
 
 # Política de Cookies

@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Retenção de Dados"
 last_modified_at: 2025-05-24
-permalink: /retencao/
+permalink: /account/retencao/
 ---
 
 # Política de Retenção de Dados

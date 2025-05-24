@@ -2,7 +2,7 @@
 layout: page
 title: "Política de Reembolso e Cancelamento"
 last_modified_at: 2025-05-24
-permalink: /reembolso/
+permalink: /account/reembolso/
 ---
 
 # Política de Reembolso e Cancelamento
